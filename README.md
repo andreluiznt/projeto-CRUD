@@ -1,8 +1,8 @@
-## projeto-CRUD
+# projeto-CRUD
 
-O projeto foi criado por alunos de Engenharia de Computação e Engenharia Elétrica para a disciplina **Introdução a Programação para Engenharia de Computação** da Universidade Federal da Paraíba.
+O projeto foi criado por alunos de **Engenharia de Computação** e **Engenharia Elétrica** para a disciplina **Introdução a Programação para Engenharia de Computação** da Universidade Federal da Paraíba (**UFPB**).
 
-##Sobre o projeto
+## Sobre o projeto
 
 A ideia foi criar um sistema que cadastrasse supermercados/mercados de um bairro e todos os seus produtos disponíveis, assim o cliente poderia realizar uma simulação de compra e descobrir qual local o preço total da compra seria mais barato.
 
